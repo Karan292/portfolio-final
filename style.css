@@ -40,6 +40,8 @@ article, aside, figure, form, table, blockquote {
 
 figure img {
   max-width: 100%;
+   grid-row: auto;
+  grid-column: auto;
 }
 
 table {
